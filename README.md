@@ -4,6 +4,7 @@ BalusterDistance
 BalusterDistance -- R script for computing optimal distance between balusters.
 
   Prints: 
+  
    (1) The number of balusters required to span a given distance, subject 
        to the maximum distance between each baluster; and 
 
